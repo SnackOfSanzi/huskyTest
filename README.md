@@ -20,4 +20,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 # huskyTest
 色々テストするようのリポジトリ
 
-huskyTest
+huskyTestaaa
